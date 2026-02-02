@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/Door.uasset",
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/BP_Door.uasset"
+			]
+		}
+	]
+}
