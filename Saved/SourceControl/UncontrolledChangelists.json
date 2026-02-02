@@ -7,8 +7,10 @@
 			"files": [
 				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/Door.uasset",
-				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/BP_Door.uasset"
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/BP_Door.uasset",
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/57/CYTALDXFL5DJBTPRGDSR41.uasset",
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/jeremiah.markham/Documents/Unreal Projects/VideoProjects/Content/ThirdPerson/Door.uasset"
 			]
 		}
 	]
