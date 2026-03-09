@@ -1,6 +1,6 @@
-\[ ] Add universal interaction
+[ ] Add universal interaction
 
-\[ ] Add damage types
+[ ] Add damage types
 
-\[ ]
+[ ]
 
